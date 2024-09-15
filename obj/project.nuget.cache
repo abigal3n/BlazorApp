@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VcdYE5U57DDV73OnR3uHKbIbz1uYp07XShwTPI1NHy2YOaQ7CVDrAKSKLU+51OMaZSVQiqcsLVm4TIMnExVi+A==",
+  "success": true,
+  "projectFilePath": "/home/galen/BlazorApp/BlazorApp.csproj",
+  "expectedPackageFiles": [
+    "/home/galen/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.7/microsoft.aspnetcore.app.ref.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
